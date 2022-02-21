@@ -1,10 +1,10 @@
 BADGER-DEER: You know there's no such thing as ghosts, right?
-PIPER: Yeah but there's gotta be something getting Ainsley all riled up.
+PIPER: Yeah but there's gotta be <em>something</em> getting Ainsley all riled up.
 
-PIPER: And we're going to CATCH it, and get RICH and FAMOUS!
+PIPER: And we're going to <em>CATCH</em> it, and get <em>RICH</em> and <em>FAMOUS!</em>
 
 BADGER-DEER: Whatever. I'm going to school.
 
-PIPER: What's the matter, Briar? Chicken?
-BRIAR: No, I'm responsible.
+PIPER: What's the matter, Briar? <em>Chicken?</em>
+BRIAR: No, I'm <em>responsible.</em>
 ANTHONY: Piper, can't we just go to school?
