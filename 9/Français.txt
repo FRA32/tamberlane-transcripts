@@ -1,18 +1,18 @@
 BLAIREAU-CERF: Maman, j'ai vu Ainsley entrer en courant. Est-ce qu'il va bien?
 
 [SFX: SHOVE]
-TESS: Allez à l'école, vous tous!
+TESS: Allez à l'école, <em>vous tous!</em>
 PIPER: Tiens-moi au courant, Ainsley!
 
 [SFX: SLAM!!]
-PIPER: Tu n'es pas ma mère!!!
+PIPER: <em>Tu n'es pas ma mère!!!</em>
 
 ANTHONY: Je pense qu'on ferait mieux d'aller en cours.
-PIPER: T'ES FOU?!
+PIPER: T'es FOU?!
 
-PIPER: On a un FANTÔME à attraper!
+PIPER: On a un <em>FANTÔME</em> à attraper!
 
 BLAIREAU-CERF: Quoi.
 
-ANTHONY: PIPER!!!
+ANTHONY: <em>Piper!!!</em>
 PIPER: Aller, venez!!
