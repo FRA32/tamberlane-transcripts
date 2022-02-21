@@ -1,10 +1,10 @@
 BLAIREAU-CERF: Tu sais que les fantômes n'existent pas, hein?
-PIPER: Ouais, mais il doit bien y avoir quelque-chose pour rendre Ainsley aussi nerveux.
+PIPER: Ouais, mais il doit bien y avoir <em>quelque-chose</em> pour rendre Ainsley aussi nerveux.
 
-PIPER: Et nous allons l'ATTRAPER, et devenir RICHES et CÉLÈBRES!
+PIPER: Et nous allons l'<em>ATTRAPER</em>, et devenir <em>RICHES</em> et <em>CÉLÈBRES!</em>
 
 BLAIREAU-CERF: Peu importe. Je vais en cours.
 
-PIPER: Quel est le problème, Briar? Tu as peur?
-BRIAR: Non, je suis responsable.
+PIPER: Quel est le problème, Briar? <em>Tu as peur?</em>
+BRIAR: Non, je suis <em>responsable.</em>
 ANTHONY: Piper, on peut pas juste aller en cours?
