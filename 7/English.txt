@@ -1,9 +1,10 @@
-AINSLEY: GHOST! In the woods!
+AINSLEY: <strong><em>GHOST!</em></strong> In the <strong><em>woods!</em></strong>
 
-OFFSCREEN: Barely escaped with my life!!
-ANTHONY: Piper!
+OFFSCREEN: <strong><em>Barely escaped with my life!!</em></strong>
+ANTHONY: <em>Piper!</em>
+[SFX: jingle jangle]
 
-AINSLEY: Just the most dreadful wailing...
+AINSLEY: Just the most <em>dreadful wailing...</em>
 PIPER: What kind of ghost?
 ANTHONY: Piper, don't be rude!
 
@@ -13,10 +14,10 @@ ANTHONY: Piper.
 PIPER: I should tell you, I'm a professional ghost-catcher.
 ANTHONY: Piper!
 
-ANTHONY: Piper-
-PIPER: ANTHONY, WHAT!
+ANTHONY: <em>Piper-</em>
+PIPER: ANTHONY, <strong><em>WHAT!</em></strong>
 
-ANTHONY: Stop it! Can't you see they've already gone through a lot!
+ANTHONY: Stop it! Can't you see they've gone through a lot!
 
 TESS: Why don't you ask Walter for some tea for Ainsley?
 PIPER: My talents are wasted.
