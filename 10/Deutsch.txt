@@ -1,10 +1,10 @@
 DACHS-HIRSCH: Du weisst aber schon, dass es sowas wie Geister gar nicht gibt, oder?
-PIPER: Ja, aber es muss etwas geben, das Ainsley so aufgeregt hat.
+PIPER: Ja, aber es <em>muss</em> etwas geben, das Ainsley so aufgeregt hat.
 
-PIPER: Und wir werden es FANGEN, und werden REICH und BERÜHMT!
+PIPER: Und wir werden es <em>FANGEN</em>, und werden <em>REICH</em> und <em>BERÜHMT!</em>
 
 DACHS-HIRSCH: Wie auch immer. Ich geh' zur Schule.
 
-PIPER: Was ist los, Briar? Hast Du die Hosen voll?
-BRIAR: Nein, ich bin nur verantwortungsvoll.
+PIPER: Was ist los, Briar? Hast Du die <em>Hosen voll?</em>
+BRIAR: Nein, ich bin nur <em>verantwortungsvoll.</em>
 ANTHONY: Piper, können wir nicht auch einfach zur Schule?
