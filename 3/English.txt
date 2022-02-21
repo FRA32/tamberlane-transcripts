@@ -6,8 +6,8 @@ DEER: Chanterelles.
 BAT: Are you sure? I seem to recall...
 DEER: <em>Chanterelles.</em>
 
-BAT: You got it! Chanterelles, coming right up!
+BAT: All right, then! Chanterelles, coming right up!
 
 BAT: While you work on Tess's meal, I'll get ready for Miss Cori!
 
-OFFSCREEN: <em>ARGH!!</em>
+OFFSCREEN: <strong><em>ARGH!!</em></strong>
