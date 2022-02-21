@@ -1,11 +1,10 @@
-AINSLEY: FANTASMA! Na floresta!
+AINSLEY: <strong><em>FANTASMA!</em></strong> Na <strong><em>floresta!</em></strong>
 
-FORA: Mal escapei com vida!!
-ANTHONY: Piper!
-
+FORA: <strong><em>Mal escapei com vida!!</em></strong>
+ANTHONY: <em>Piper!</em>
 [SFX: ding, ding]
 
-AINSLEY: Simplesmente os prantos mais malignos...
+AINSLEY: Simplesmente os <em>prantos mais malignos...</em>
 PIPER: Que tipo de fantasma?
 ANTHONY: Piper, não seja rude!
 
@@ -15,8 +14,8 @@ ANTHONY: Piper.
 PIPER: Eu devia te informar, sou uma caçadora de fantasmas profissional.
 ANTHONY: Piper!
 
-ANTHONY: Piper-
-PIPER: ANTHONY, O QUÊ!
+ANTHONY: <em>Piper-</em>
+PIPER: ANTHONY, <strong><em>O QUÊ!</em></strong>
 
 ANTHONY: Para! Não consegue ver que eles já passaram por muito!
 
