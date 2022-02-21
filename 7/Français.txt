@@ -1,7 +1,7 @@
 AINSLEY: <strong><em>UN FANTÔME!</em></strong> Dans la <strong><em>forêt!</em></strong>
 
 HORS-CADRE: <strong><em>J'ai failli y passer!!</em></strong>
-ANTHONY: Piper!
+ANTHONY: <em>Piper!</em>
 [SFX: jingle jangle]
 
 AINSLEY: Des <em>gémissements</em> juste <em>épouvantables...</em>
@@ -14,7 +14,7 @@ ANTHONY: Piper.
 PIPER: Je devrais le mentionner, je suis une chasseuse de fantômes professionnelle.
 ANTHONY: Piper!
 
-ANTHONY: Piper-
+ANTHONY: <em>Piper-</em>
 PIPER: ANTHONY, <strong><em>QUOI?</em></strong>
 
 ANTHONY: Arrête ! Tu ne vois pas qu'il est déjà suffisamment secoué? 
