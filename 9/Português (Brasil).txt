@@ -1,18 +1,18 @@
 TEXUGO-VEADO: Mãe, eu vi Ainsley correr pra cá. Eles estão bem?
 
 [SFX: EMPURRA]
-TESS: Pra escola, todos vocês!
+TESS: Pra escola, <em>todos vocês!</em>
 PIPER: Me conte os detalhes mais tarde, Ainsley!
 
 [SFX: BATIDA!!]
-PIPER: Você não é minha mãe de verdade!!!
+PIPER: <em>Você não é minha mãe de verdade!!!</em>
 
 ANTHONY: Eu acho melhor irmos logo para escola.
-PIPER: VOCÊ TÁ LOUCO?!
+PIPER: Você tá LOUCO?!
 
-PIPER: Nós temos um FANTASMA para pegar!
+PIPER: Nós temos um <em>FANTASMA</em> para pegar!
 
 TEXUGO-VEADO: Quê.
 
-ANTHONY: PIPER!!!
+ANTHONY: <em>Piper!!!</em>
 PIPER: Vamos logo!!
