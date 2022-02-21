@@ -4,10 +4,10 @@ FLEDERMAUS: Pfifferlinge oder Samtfuß?
 
 HIRSCH: Pfifferlinge.
 FLEDERMAUS: Bist du sicher? Ich meine, mich zu erinnern…
-HIRSCH: Pfifferlinge.
+HIRSCH: <em>Pfifferlinge.</em>
 
 FLEDERMAUS: Alles klar! Pfifferlinge sind auf dem Weg!
 
 FLEDERMAUS: Während du Essen für Tess machst, mach ich mich fertig für Frau Cori!
 
-OFFSCREEN: ARGH!!
+OFFSCREEN: <strong><em>ARGH!!</em></strong>
