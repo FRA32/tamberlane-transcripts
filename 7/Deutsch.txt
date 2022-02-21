@@ -1,20 +1,21 @@
-AINSLEY: GEIST! In den Wäldern!
+AINSLEY: <strong><em>GEIST!</em></strong> In den <strong><em>Wäldern!</em></strong>
 
-OFFSCREEN: Bin nur knapp mit dem Leben davongekommen!!
-ANTHONY: Piper!
+OFFSCREEN: <strong><em>Bin nur knapp mit dem Leben davongekommen!!</em></strong>
+ANTHONY: <em>Piper!</em>
+[SFX: ringel ding]
 
-AINSLEY: Da war dieses fürchterliche Jammern...
+AINSLEY: Da war dieses <em>fürchterliche Jammern...</em>
 PIPER: Welche Art von Geist?
 ANTHONY: Piper, sei nicht so unhöflich!
 
 PIPER: Hatte es große, spitze Zähne?
 ANTHONY: Piper.
 
-PIPER: Ich sollte erwähnen, dass ich profesioneller Geisterjäger bin.
+PIPER: Ich sollte erwähnen, dass ich professioneller Geisterjäger bin.
 ANTHONY: Piper!
 
-ANTHONY: Piper-
-PIPER: ANTHONY, WAS!?
+ANTHONY: <em>Piper-</em>
+PIPER: ANTHONY, <strong><em>WAS!?</em></strong>
 
 ANTHONY: Hör auf! Siehst Du nicht, dass sie einiges durchgemacht hat?
 
