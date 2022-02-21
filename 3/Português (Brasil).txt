@@ -10,4 +10,4 @@ MORCEGO: Beleza, então! Cantarelos saindo!
 
 MORCEGO: Enquanto você trabalha na refeição da Tess, eu vou me peparar para a senhorita Cori!
 
-FORA: <em>AAH!!</em>
+FORA: <strong><em>AAH!!</em></strong>
