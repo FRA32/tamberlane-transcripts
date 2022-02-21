@@ -4,10 +4,10 @@ CHAUVE-SOURIS: Les chanterelles ou les collybies?
 
 CERF: Les chanterelles.
 CHAUVE-SOURIS: Es-tu sûr? Je pense me rappeler...
-CERF: [i]Les chanterelles.[/i]
+CERF: <em>Les chanterelles.</em>
 
 CHAUVE-SOURIS: D'accord! Des chanterelles, ça arrive!
 
 CHAUVE-SOURIS: Pendant que tu t'occupes du repas de Tess, je vais me préparer pour Miss Cori!
 
-HORS-CHAMP: [i]ARGH!![/i]
+HORS-CHAMP: <strong><em>ARGH!!</em></strong>
