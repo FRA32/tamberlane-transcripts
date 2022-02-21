@@ -1,18 +1,18 @@
 DACHS-HIRSCH: Mama, ich hab Ainsley hier reinlaufen sehen. Ist alles in Ordnung?
 
 [SFX: SCHUBS]
-TESS: Ab in die Schule, und zwar alle!
+TESS: Ab in die Schule, <em>und zwar alle!</em>
 PIPER: Meld dich deswegen nochmal bei mir, Ainsley!
 
 [SFX: RUMS!!]
-PIPER: Ausserdem bist Du gar nicht meine echte Mutter!!!
+PIPER: <em>Ausserdem bist Du gar nicht meine echte Mutter!!!</em>
 
 ANTHONY: Ich denke, wir sollten besser zur Schule.
-PIPER: BIST DU BEKLOPPT?!
+PIPER: Bist du BEKLOPPT?!
 
-PIPER: Es gilt einen GEIST zu fangen!
+PIPER: Es gilt einen <em>GEIST</em> zu fangen!
 
 DACHS-HIRSCH: Bitte?!
 
-ANTHONY: PIPER!!!
+ANTHONY: <em>Piper!!!</em>
 PIPER: Na kommt schon!!
