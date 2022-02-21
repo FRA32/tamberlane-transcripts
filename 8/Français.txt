@@ -3,7 +3,7 @@ ANTHONY: A-Alors, à propos de ce fantôme...
 AINSLEY: Oh, je ne sais pas quoi dire!
 ANTHONY: B-Bien sûr!
 
-AINSLEY: N'ALLEZ JUSTE PAS DANS LA FORÊT!!!!
+AINSLEY: <em>N'ALLEZ JUSTE PAS DANS LA FORÊT!!!</em>
 BELFRY: A-Ainsley!
 
 BELFRY: Je te promets que nous avertirons tout le monde.
@@ -11,6 +11,6 @@ BELFRY: Je te promets que nous avertirons tout le monde.
 PIPER: Okay, Ainsley, j'ai du thé et des cookies pour toi!
 PIPER: Alors, à propos de ce fantôme...
 
-TESS: Piper.
+TESS: <em>Piper.</em>
 
 PIPER: Oui, madame.
