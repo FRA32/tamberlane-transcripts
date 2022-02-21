@@ -11,7 +11,7 @@ WALTER: Mmnhm.
 BADGER: Let's get you bandaged up, you poor waif.
 BELFRY: Thanks, Mama Tess.
 
-OFFSCREEN: AINSLEY!!
+OFFSCREEN: <strong><em>AINSLEY!!</em></strong>
 
 ANTHONY: Piper, shouldn't we...
 PIPER: Shut up, Anthony.
