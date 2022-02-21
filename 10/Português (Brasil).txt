@@ -1,10 +1,10 @@
 TEXUGO-VEADO: Você sabe que fantasmas não existem, certo?
-PIPER: Sim, mas deve ter alguma coisa deixando Ainsley agitado.
+PIPER: Sim, mas deve ter <em>alguma coisa</em> deixando Ainsley agitado.
 
-PIPER: E nós vamos CAPTURAR isso, e ficar RICOS e FAMOSOS!
+PIPER: E nós vamos <em>CAPTURAR</em> isso, e ficar <em>RICOS</em> e <em>FAMOSOS!</em>
 
 TEXUGO-VEADO: Tanto faz. Eu vou pra escola.
 
-PIPER: Qual o problema, Briar? Vai arregar?
-BRIAR: Não, eu sou responsável.
+PIPER: Qual o problema, Briar? <em>Vai arregar?</em>
+BRIAR: Não, eu sou <em>responsável.</em>
 ANTHONY: Piper, a gente não pode só ir pra escola?
