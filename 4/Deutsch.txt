@@ -1,6 +1,6 @@
 FLEDERMAUS: Oh nein, was ist passiert?!
-HIRSCH: Du hast mir Samtfußrübling gegeben!
-[SFX: *Hust* *Hust*]
+HIRSCH: Du hast mir <strong><em>Samtfußrübling</em></strong> gegeben!
+[SFX: Hust Hust]
 
 FLEDERMAUS: Ich muss sie wieder falsch einsortiert haben!
 
@@ -12,7 +12,7 @@ WALTER: Du musst mehr Verantwortung übernehmen!
 BELFRY: Ich weiß, ich weiß! Ich bringe es sofort in Ordnung! Versprochen!
 
 BELFRY: Ich tausche einfach die Aufkleber aus…
-[SFX: *Zieeeeeh*]
+[SFX: Zieeeeeh]
 
 [SFX: DING!]
 BELFRY: Oh!
