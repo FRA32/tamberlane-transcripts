@@ -12,7 +12,7 @@ WALTER: You must be taking more responsibility!
 BELFRY: I know, I know! I'll fix it right now! I promise!
 
 BELFRY: I'll just switch the stickers...
-[SFX: Peeeeeel]
+[SFX: Peeeeeeel]
 
 [SFX: DING!]
 BELFRY: Oh!
