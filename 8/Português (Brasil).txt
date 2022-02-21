@@ -3,7 +3,7 @@ ANTHONY: E-então, sobre aquele fantasma...
 AINSLEY: Oh, Eu não poderia continuar!
 ANTHONY: C-claro!
 
-AINSLEY: APENAS NÃO ENTRE NA FLORESTA!!!!
+AINSLEY: <em>APENAS NÃO ENTRE NA FLORESTA!!!</em>
 BELFRY: A-Ainsley!
 
 BELFRY: Eu prometo que iremos avisar os outros.
@@ -11,6 +11,6 @@ BELFRY: Eu prometo que iremos avisar os outros.
 PIPER: Tudo bem, Sre. Ainsley, eu tenho chá e biscoitos para você!
 PIPER: Então, sobre aquele fantasma...
 
-TESS: Piper.
+TESS: <em>Piper.</em>
 
 PIPER: Sim, senhora.
