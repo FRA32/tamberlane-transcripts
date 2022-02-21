@@ -1,4 +1,4 @@
-OFFSCREEN: Pilze, bitte! Ich brauche die Pilze!
+ABSEITS: Pilze, bitte! Ich brauche die Pilze!
 
 FLEDERMAUS: Pfifferlinge oder Samtfuß?
 
@@ -10,4 +10,4 @@ FLEDERMAUS: Alles klar! Pfifferlinge sind auf dem Weg!
 
 FLEDERMAUS: Während du Essen für Tess machst, mach ich mich fertig für Frau Cori!
 
-OFFSCREEN: <strong><em>ARGH!!</em></strong>
+ABSEITS: <strong><em>ARGH!!</em></strong>
