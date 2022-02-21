@@ -1,5 +1,5 @@
 CHAUVE-SOURIS: Oh non, que s'est-il passé?!
-CERF: Tu m'as donné des collybies!
+CERF: Tu m'as donné des <strong><em>collybies!</em></strong>
 [SFX: Cough Cough]
 
 CHAUVE-SOURIS: J'ai dû les mélanger de nouveau !
@@ -18,4 +18,3 @@ BELFRY: Je n'ai qu'à échanger les étiquettes...
 BELFRY: Oh!
 
 BELFRY: Je sais! Je vais sortir la tarte du four!
-
