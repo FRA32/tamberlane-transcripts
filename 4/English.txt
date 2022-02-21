@@ -1,5 +1,5 @@
 BAT: Oh no, what happened?!
-DEER: You give me <em>velvet foots!</em>
+DEER: You give me <strong><em>velvet foots!</em></strong>
 [SFX: Cough Cough]
 
 BAT: I must have missorted them again!
