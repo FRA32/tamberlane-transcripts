@@ -1,9 +1,9 @@
 ANTHONY: S-So about that ghost...
 
 AINSLEY: Oh, I couldn't possibly go on!
-ANTHONY: O-of course!
+ANTHONY: O-Of course!
 
-AINSLEY: JUST DON'T GO INTO THE FOREST!!!!
+AINSLEY: <em>JUST DON'T GO INTO THE FOREST!!!</em>
 BELFRY: A-Ainsley!
 
 BELFRY: I promise we'll spread the word.
@@ -11,6 +11,6 @@ BELFRY: I promise we'll spread the word.
 PIPER: Okay, Mx. Ainsley, I have tea and cookies for you!
 PIPER: So about that ghost...
 
-TESS: Piper.
+TESS: <em>Piper.</em>
 
 PIPER: Yes, ma'am.
