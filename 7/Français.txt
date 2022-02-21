@@ -1,22 +1,23 @@
-AINSLEY: UN FANTÔME ! Dans la forêt !
+AINSLEY: <strong><em>UN FANTÔME!</em></strong> Dans la <strong><em>forêt!</em></strong>
 
-HORS-CADRE: J'ai failli y passer !!
+HORS-CADRE: <strong><em>J'ai failli y passer!!</em></strong>
 ANTHONY: Piper!
+[SFX: jingle jangle]
 
-AINSLEY: Des gémissements juste épouvantables...
-PIPER: Quel genre de fantôme ? 
-ANTHONY: Piper, soit polie !
+AINSLEY: Des <em>gémissements</em> juste <em>épouvantables...</em>
+PIPER: Quel genre de fantôme? 
+ANTHONY: Piper, soit polie!
 
-PIPER: Est-ce qu'il avait des grosses dents prêtes à mordre ?
+PIPER: Est-ce qu'il avait des grosses dents prêtes à mordre?
 ANTHONY: Piper.
 
 PIPER: Je devrais le mentionner, je suis une chasseuse de fantômes professionnelle.
 ANTHONY: Piper!
 
 ANTHONY: Piper-
-PIPER: ANTHONY, QUOI ?
+PIPER: ANTHONY, <strong><em>QUOI?</em></strong>
 
-ANTHONY: Arrête ! Tu ne vois pas qu'il est déjà suffisamment secoué ? 
+ANTHONY: Arrête ! Tu ne vois pas qu'il est déjà suffisamment secoué? 
 
-TESS: Pourrais-tu demander à Walter de faire du thé pour Ainsley ?
+TESS: Pourrais-tu demander à Walter de faire du thé pour Ainsley?
 PIPER: On gâche mes talents.
