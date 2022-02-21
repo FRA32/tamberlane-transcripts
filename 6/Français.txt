@@ -11,7 +11,7 @@ WALTER: Mmnhm.
 BADGER: Laisse-moi panser ça, ma pauvre petite.
 BELFRY: Merci, maman Tess.
 
-HORS-CADRE: AINSLEY!!
+HORS-CADRE: <strong><em>AINSLEY!!</em></strong>
 
 ANTHONY: Piper, On ne drvait pas…
 PIPER: Ferme-la, Anthony.
