@@ -4,7 +4,7 @@ BELFRY: E magro.
 
 BELFRY: Cadê seus pais?
 
-BELFRY: Você tem pais?
+BELFRY: Você <em>tem</em> pais?
 BELFRY: Eles estão por aqui?
 
-BELFRY: Se você tem pais, eles são bem ruins, não são.
+BELFRY: Se você <em>tem</em> pais, eles são bem ruins, não são.
