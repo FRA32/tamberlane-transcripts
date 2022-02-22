@@ -6,6 +6,8 @@ BELFRY: ♪
 [SFX: PFLATSCH!]
 
 BELFRY: Tess! Es tut mir SOO Leid! Ich hab dich nicht gesehen!
+TESS: hrmmn
+[SFX: schrub schrub]
 
 TESS: Belfry, ich habe ein komisches Gefühl...
 BELFRY: Ist es der Kuchen?
