@@ -7,7 +7,7 @@ TAMBERLANE: wah
 
 PIPER: Das ist der Geist, tatsächlich! Den hab ich da runter gestossen!
 
-OAKEWOOD: arrgh
+[SFX: arrgh]
 
 PIPER: Was ist los? Hast du Kopfweh, Bücherei-Opa?
 OAKEWOOD: Ainsley hat eine Wette gewonnen.
