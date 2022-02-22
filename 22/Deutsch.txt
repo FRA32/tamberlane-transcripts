@@ -7,8 +7,9 @@ GHOST: Okee?
 [SFX: PATSCH PATSCH]
 
 GHOST: Awaa wanna hungee fuh bih pills bi?
-BELFRY: Ähm...
+BELFRY: Ã„hm...
+[SFX: RUTSCH]
 
 GHOST: Pills? Pills?
 
-BELFRY: Du willst... einen Pilz?
+BELFRY: Du willst...einen Pilz?
