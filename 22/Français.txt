@@ -10,6 +10,7 @@ GHOST: Okee? (Okay ?)
 
 GHOST: A veux kalin plait ? ==> Awaa wanna hungee foo bee peez bee? (Wanna hung please ? ==> Je veux un calin s'il te plait)
 BELFRY: Um...
+[SFX: GLISSE]
 
 GHOST: Plait ? Plait ? ==> Peez? Peez? (or Peas ? ==> Petit pois)
 
