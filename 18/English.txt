@@ -1,12 +1,12 @@
 [SFX: OOOWAAAWAAAWOOOW]
 BELFRY: W-What's that?!
-ANTHONY: THE GHOST IS BACK!
+ANTHONY: <em>THE GHOST IS BACK!</em>
 
-ANTHONY: GO SAVE MY SISTER!
+ANTHONY: <em>GO SAVE MY SISTER!</em>
 
 BELFRY: Oh, hi guys!
 
 BELFRY: ...Wuh-oh.
 
 PIPER: I feel like, narratively, we should've expected this.
-BRIAR: BEL!!!
+BRIAR: <em>BEL!!!</em>
