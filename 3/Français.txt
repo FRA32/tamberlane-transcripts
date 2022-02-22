@@ -1,13 +1,13 @@
-HORS-CHAMP: Les champignons, s'il-te-plaît! J'ai besoin des champignons!
+HORS-CHAMP: Les champignons, s'il-te-plaît! J'ai besoin des champignons !
 
-CHAUVE-SOURIS: Les chanterelles ou les collybies?
+CHAUVE-SOURIS: Les chanterelles ou les collybies ?
 
 CERF: Les chanterelles.
 CHAUVE-SOURIS: Es-tu sûr? Je pense me rappeler...
 CERF: <em>Les chanterelles.</em>
 
-CHAUVE-SOURIS: D'accord! Des chanterelles, ça arrive!
+CHAUVE-SOURIS: D'accord ! Des chanterelles, ça arrive !
 
-CHAUVE-SOURIS: Pendant que tu t'occupes du repas de Tess, je vais me préparer pour Miss Cori!
+CHAUVE-SOURIS: Pendant que tu t'occupes du repas de Tess, je vais me préparer pour Miss Cori !
 
-HORS-CHAMP: <strong><em>ARGH!!</em></strong>
+HORS-CHAMP: <strong><em>ARGH !!</em></strong>
