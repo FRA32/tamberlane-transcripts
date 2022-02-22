@@ -1,11 +1,12 @@
-PIPER: Je n'aurais jamais pensé que la fille des deux meilleurs combattants de tout Silver Sage était une grosse poule mouillée!
+PIPER: Je n'aurais jamais pensé que la fille des deux meilleurs combattants de tout Silver Sage était une <strong><em>grosse poule mouillée!</em></strong>
 ANTHONY: Piper, s'il-te-plaît!
 
-BRIAR: Je n'ai pas peur! C'est juste stupide!
+BRIAR: Je n'ai pas <em>peur!</em> C'est juste <em>stupide!</em>
 
-PIPER: Oh, okay. Je vois. Peureuse.
+PIPER: Oh, okay. Je vois. <em>Peureuse.</em>
+ANTHONY: h-hé...!
 
-BRIAR: J'ai pas peur!!!
+BRIAR: J'ai <em>pas peur!!!</em>
 
 PIPER: Prouves-le.
 
