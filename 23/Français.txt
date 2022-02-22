@@ -14,4 +14,4 @@ BELFRY: Oh, tu peux parler ! A peu près. Mais je ne sais pas ce que cela veut d
 TAMBERLANE: Hee!
 
 BELFRY: Mais tu as l'air jeune.
-BELFRY: Es-tu un gamin ? (kit for kid i presume ? So many words for this ^^ "gamin" is friendly, "gosse" is more aggressive, "enfant" is scholar)
+BELFRY: Es-tu un gamin ?
