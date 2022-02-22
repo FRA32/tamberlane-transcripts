@@ -6,6 +6,7 @@ BELFRY: ♪
 [SFX: SPLOCT!]
 
 BELFRY: Tess! ME DESCULPA! Eu não estava prestando atenção!
+TESS: hrmmn
 [SFX: Esfrega, esfrega]
 
 TESS: Belfry, eu estou sentindo uma coisa estranha...
