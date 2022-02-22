@@ -1,6 +1,6 @@
 [SFX: AAAAAHH]
 
-BELFRY: AUAUAU, MEIN BEIN!
+BELFRY: <em>AUAUAU, MEIN BEIN!</em>
 
 BELFRY: <em>Ich werde sterben</em>
 
