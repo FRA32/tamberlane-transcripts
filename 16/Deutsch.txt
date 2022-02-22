@@ -1,11 +1,11 @@
 [SFX: puh]
 
-BELFRY: Alles klar! Zeit, VERANTWORTUNG zu tragen! Das wär doch gelacht!
+BELFRY: Alles KLAR! Zeit, VERANTWORTUNG zu tragen! Das wär doch gelacht!
 [SFX: yosh'!]
 
 BELFRY: Lasst uns ein paar Kinder finden!
 
-ANTHONY: BELFRY!
+ANTHONY: <em>BELFRY!</em>
 BELFRY: Ist das Anthony?
 
 BELFRY: Exzellente Detektivarbeit von mir!
