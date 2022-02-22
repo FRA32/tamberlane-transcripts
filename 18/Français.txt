@@ -1,12 +1,12 @@
 [SFX: OUINOOOOUUUUUIIIIN]
 BELFRY: Qu...Qu'est-ce que c'est ?!
-ANTHONY: LE FANTOME EST DE RETOUR ! 
+ANTHONY: <em>LE FANTOME EST DE RETOUR !</em>
 
-ANTHONY: VA SAUVER MA SOEUR ! 
+ANTHONY: <em>VA SAUVER MA SOEUR !</em>
 
 BELFRY: Oh, salur les gars !
 
 BELFRY: Oh oh...
 
 PIPER: J'ai la sensation, narrativement, que nous devions nous y attendre.
-BRIAR: BEL !!!
+BRIAR: <em>BEL !!!</em>
