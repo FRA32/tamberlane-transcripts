@@ -1,12 +1,12 @@
 PIPER: Ne t'en fais pas, Belfry ! Je vais venir te sauver !
 
-ANTHONY: NON ELLE NE LE FERA PAS
+ANTHONY: NON ELLE NE LE FERA PAS !
 
-GHOST: Awawarrr!
+FANTOME: <em>Awawarrr !</em>
 
 [SFX: whimper]
 
-BELFRY: S'IL VOUS PLAIT AIDEZ-MOI !
+BELFRY: <em>S'IL VOUS PLAIT AIDEZ-MOI !</em>
 
 ANTHONY: Briar est allé chercher sa mère !
 
