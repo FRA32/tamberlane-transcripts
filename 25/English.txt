@@ -12,6 +12,5 @@ OUTSIDE: or can you?
 OUTSIDE: We need help!
 
 [SFX: SLAM]
-
 AINSLEY: HIDE ME!
 COYOTE: The library is <em>closed!</em>
