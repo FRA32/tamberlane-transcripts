@@ -14,4 +14,4 @@ OUTSIDE: On a besoin d'aide !
 [SFX: SLAM]
 
 AINSLEY: CACHES MOI !
-COYOTE: La bibliothèque est fermée !
+COYOTE: La bibliothèque est <em>fermée !</em>
