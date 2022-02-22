@@ -8,7 +8,8 @@ GHOST: Okee?
 
 GHOST: Awaa wanna hungee foo bee peez bee?
 BELFRY: Um...
+[SFX: SLIDE]
 
 GHOST: Peez? Peez?
 
-BELFRY: You want... peas?
+BELFRY: You want...peas?
