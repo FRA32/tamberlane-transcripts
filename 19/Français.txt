@@ -6,6 +6,6 @@
 
 [SFX: whump]
 
-ANTHONY: Je crois que j'ai tué Miss Belfry
+ANTHONY: <strong><em>Je crois que j'ai tué Miss Belfry</em></strong>
 
 PIPER: Yeah, surement.
