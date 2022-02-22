@@ -2,11 +2,11 @@ PIPER: Keine Sorge, Belfry! Ich rette dich!
 
 ANTHONY: NEIN, TUT SIE NICHT
 
-GEIST: Awawarrr!
+GEIST: <em>Awawarrr!</em>
 
 [SFX: winsel]
 
-BELFRY: BITTE HOLT HILFE!
+BELFRY: <em>BITTE HOLT HILFE!</em>
 
 ANTHONY: Briar holt gerade seine Mutter!
 
