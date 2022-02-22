@@ -1,9 +1,9 @@
-TESS: Quoi?
+TESS: Quoi ?
 
-TESS: Belfry, Peux-tu juste t'assurer que les enfants vont bien à l'école?
+TESS: Belfry, Peux-tu juste t'assurer que les enfants vont bien à l'école ?
 
-BELFRY: Tout de suite madame!
-[SFX: SALUER!]
+BELFRY: Tout de suite madame !
+[SFX: SALUER !]
 
 [SFX: plop]
 
