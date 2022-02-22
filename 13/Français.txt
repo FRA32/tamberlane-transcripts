@@ -1,16 +1,16 @@
-PIPER: Tu es sensée nous protéger!
+PIPER: Tu es sensée nous protéger !
 [SFX: SHOVE]
-BRIAR: Oh, qui est la peureuse MAITNENANT?!
+BRIAR: Oh, qui est la peureuse MAITNENANT ?!
 
-ANTHONY: Piper, on peut aller à l'école?!
+ANTHONY: Piper, on peut aller à l'école ?!
 [SFX: WAWOOOAWAAAA]
 
-ANTHONY: Piper, si tu te blesses, je vais avoir des problèmes!
+ANTHONY: Piper, si tu te blesses, je vais avoir des problèmes !
 
-ANTHONY: Je ne veux pas avoir d'ennuis!
+ANTHONY: Je ne veux pas avoir d'ennuis !
 [SFX: WAAAOOOOOO]
 
-ANTHONY: <em>PIPERRR!!</em>
+ANTHONY: <em>PIPERRR !!</em>
 [SFX: WAAOOOO]
 
 PIPER: Oh me-
