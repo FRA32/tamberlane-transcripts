@@ -1,15 +1,15 @@
-PIPER: Nunca achei que a filha dos dois melhores lutadores de toda Silver Sage seria uma grande arregona!
+PIPER: Nunca achei que a filha dos dois melhores lutadores de toda Silver Sage seria uma <strong><em>grande arregona!</em></strong>
 ANTHONY: Piper, por favor!
 
-BRIAR: Eu não estou com medo! Isso só é IDIOTA!
+BRIAR: Eu não estou <em>com medo!</em> Isso só é <em>IDIOTA!</em>
 
-PIPER: Ah, beleza. Tô vendo. Cagona.
+PIPER: Ah, beleza. Tô vendo. <em>Cagona.</em>
+ANTHONY: e-ei...!
 
-BRIAR: Eu não sou!
+BRIAR: Eu <em>não</em> sou!
 
 PIPER: Prova isso.
 
 ANTHONY: Por favor, a gente pode ir pra escola?
 ANTHONY: Vamos aprender sobre pedras hoje.
 ANTHONY: Eu gosto de pedras.
-
