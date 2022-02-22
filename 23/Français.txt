@@ -2,9 +2,9 @@
 
 BELFRY: Tu n'es pas un fantôme après tout, n'est-ce pas ?
 
-BELFRY: Tu es si maigre ! 
+BELFRY: Tu es si <em>maigre !</em> 
 
-BELFRY: Si tu n'es pas un fantôme... Alors qu'est-ce que tu es ?
+BELFRY: Si tu n'es pas un fantôme... Alors qu'est-ce que tu <em>es ?</em>
 
 TAMBERLANE: Tamberlane!
 
