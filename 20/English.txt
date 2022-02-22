@@ -1,6 +1,6 @@
 [SFX: AAGGHH]
 
-BELFRY: <strong><em>OWOWOW MY LEG!</em></strong>
+BELFRY: <em>OWOWOW MY LEG!</em>
 
 BELFRY: <em>I'm gonna die</em>
 
