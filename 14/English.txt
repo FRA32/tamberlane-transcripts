@@ -6,6 +6,8 @@ BELFRY: ♪
 [SFX: SPLUT!]
 
 BELFRY: Tess! I'm SO SORRY! I wasn't watching!
+TESS: hrmmn
+[SFX: scrub scrub]
 
 TESS: Belfry, I have a funny feeling...
 BELFRY: Is it pie?
