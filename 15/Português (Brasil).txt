@@ -7,6 +7,6 @@ BELFRY: É pra já, senhora!
 
 [SFX: plop]
 
-BELFRY: AI MEU PAI MAMÃE TESS ME DESCULPA
+BELFRY: <em>AI MEU PAI MAMÃE TESS ME DESCULPA</em>
 
 TESS: Só... vai ir checar as crianças.
