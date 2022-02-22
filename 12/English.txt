@@ -9,12 +9,12 @@ PIPER: Uh-duh.
 
 BRIAR: Then I'd better make sure you don't get hurt. 
 BRIAR: But in 10 minutes, we're going to school!
-PIPER: Okay, mom.
+PIPER: Okay, <em>mummy.</em>
 
 BRIAR: So where's this ghost, anyways?
 PIPER: Who knows? Ainsley just said it was in the forest, screaming.
 
 [SFX: AWWAAAWAWARRAWW]
 
-[SFX: OW!!!]
+ANTHONY: OW!!!
 PIPER: I'M NOT SCARED!!!
