@@ -4,7 +4,7 @@ BELFRY: Und dürr.
 
 BELFRY: Wo sind Deine Eltern?
 
-BELFRY: Hast Du überhaupt Eltern?
+BELFRY: <em>Hast</em> Du überhaupt Eltern?
 BELFRY: Sind sie hier irgendwo in der Nähe?
 
-BELFRY: Also, wenn Du Eltern hast, dann aber ganz schön Schlechte, oder?
+BELFRY: Also, <em>wenn</em> Du Eltern hast, dann aber ganz schön Schlechte, oder?
