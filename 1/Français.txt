@@ -4,6 +4,6 @@ MARTRE: Oh non, oh non, oh non !
 [SFX: AAAAA]
 MARTRE: J'ai dérangé un esprit maléfique !
 
-MARTRE: C'est la seule- OOF!
+MARTRE: C'est la seule- OOF !
 
 [SFX: AWAAAAAWAARA]
