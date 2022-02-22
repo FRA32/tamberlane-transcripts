@@ -4,7 +4,7 @@ TESS: Die Pflege die dieses Ding braucht... Wir haben die Möglichkeiten hier in
 
 TESS: Du müsstest nach... <em>Draussen</em>.
 
-BELFRY: Mir doch EGAL! Nichts was du sagst, wird meine Meinung ändern!
+BELFRY: Mir doch <em>EGAL!</em> Nichts was du sagst, wird meine Meinung ändern!
 TAMBERLANE: doch egaal!
 
 TESS: Belfry, du <em>verstehst</em> nicht!
