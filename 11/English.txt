@@ -1,11 +1,12 @@
-PIPER: Never would have thought that the child of the two best pit fighters in all Silver Sage would be a big fat chicken!
+PIPER: Never would have thought that the child of the two best pit fighters in all Silver Sage would be a <strong><em>big fat chicken!</em></strong>
 ANTHONY: Piper, please!
 
-BRIAR: I'm not scared! This is just STUPID!
+BRIAR: I'm not <em>scared!</em> This is just <em>STUPID!</em>
 
-PIPER: Oh, okay. I see now. Scaredy cat.
+PIPER: Oh, okay. I see now. <em>Scaredy cat.</em>
+ANTHONY: h-hey...!
 
-BRIAR: I'm not!!!
+BRIAR: I'm <em>not!!!</em>
 
 PIPER: Prove it.
 
