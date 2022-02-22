@@ -6,7 +6,7 @@ BELFRY: Essa vai ser pra valer!
 
 BELFRY: Vamos lá achar umas crianças!
 
-ANTHONY:BELFRY!
+ANTHONY: <em>BELFRY!</em>
 BELFRY: Isso é o Anthony?
 
 BELFRY: Otímo trabalho de detetive, eu!
