@@ -2,16 +2,16 @@ BELFRY: No.
 
 TESS: Belfry-
 
-BELFRY: NO!
+BELFRY: <em>NO!</em>
 
-BELFRY: Don't you get it?! This kit is an ORPHAN!
+BELFRY: Don't you get it?! This kit is an <em>ORPHAN!</em>
 
-BELFRY: Its parents ABANDONED it in the wilderness to STARVE!
+BELFRY: Its parents <em>ABANDONED</em> it in the wilderness to <em>STARVE!</em>
 
-BELFRY: And now you want me to do the SAME THING?
+BELFRY: And now you want me to do the <em>SAME THING?</em>
 
-BELFRY: NO PARENT SHOULD ABANDON THEIR KIT!
+BELFRY: <em>NO PARENT SHOULD ABANDON THEIR KIT!</em>
 
-BELFRY: And it IS my kit now.
+BELFRY: And it <em>is</em> my kit now.
 
-BELFRY: I won't abandon you.
+BELFRY: <em>I</em> won't abandon you.
