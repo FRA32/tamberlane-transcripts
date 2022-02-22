@@ -4,10 +4,10 @@ BELFRY: <em>AIEAIEAIE MA JAMBE !</em>
 
 BELFRY: <em>Je vais mourir</em>
 
-GHOST: Aieaieaie ?
+FANTOME: Aieaieaie ?
 
 BELFRY: RESTE LOIN, FANTOME ! Je ne veux pas te faire du mal !
 
 BELFRY: <em>S'IL TE PLAIT NE ME FAIT PAS DE MAL !</em>
 
-GHOST: plaime pamale ?
+FANTOME: plaime pamale ?
