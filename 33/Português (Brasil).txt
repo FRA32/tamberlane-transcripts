@@ -2,16 +2,16 @@ BELFRY: Não.
 
 TESS: Belfry-
 
-BELFRY: NÃO!
+BELFRY: <em>NÃO!</em>
 
-BELFRY: Você não entende?! Esse filhote é um ÓRFÃO!
+BELFRY: Você não entende?! Esse filhote é um <em>ÓRFÃO!</em>
 
-BELFRY: Os pais deles abandonaram ele na floresta pra MORRER DE FOME!
+BELFRY: Os pais deles abandonaram ele na floresta pra <em>MORRER DE FOME!</em>
 
-BELFRY: E agora você quer que eu faça a MESMA COISA?
+BELFRY: E agora você quer que eu faça a <em>MESMA COISA?</em>
 
-BELFRY: NENHUM PAI DEVE ABANDONAR SEU FILHOTE!
+BELFRY: <em>NENHUM PAI DEVE ABANDONAR SEU FILHOTE!</em>
 
-BELFRY: E agora é MEU filhote.
+BELFRY: E agora é <em>MEU</em> filhote.
 
-BELFRY: Eu não vou te abandonar.
+BELFRY: <em>Eu</em> não vou te abandonar.
