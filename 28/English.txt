@@ -8,6 +8,6 @@ OAKEWOOD: And that involves a nice, cozy night in away from pestering nutjobs li
 OAKEWOOD: And speaking of, time to leave.
 
 AINSLEY: You'd throw me to the wolves?
-OAKEWOOD: Some of my best friends are wolves. Out.
+OAKEWOOD: Some of my best friends are wolves. <em>Out.</em>
 
 [SFX: SLAM]
