@@ -2,15 +2,15 @@ TESS: Bel, don't you get it?
 
 TESS: The care this thing needs... We don't have the facilities here in Treehollow.
 
-TESS: You'd have to go... abroad.
+TESS: You'd have to go...<em>abroad.</em>
 
-BELFRY: I don't CARE. Nothing you say will make me put it back!
+BELFRY: I don't <em>CARE</em>. Nothing you say will make me put it back!
 TAMBERLANE: Don't care!
 
-TESS: Belfry, you don't understand!
+TESS: Belfry, you don't <em>understand!</em>
 BELFRY: Oh, I understand perfectly! Stop treating me like a child! I'm nineteen!
 TAMBERLANE: Wah!
 
 ANTHONY: This is a bad idea.
 BRIAR: I love Belfry, but...yeah.
-PIPER: Brilliant! I can't wait to see all the BLOOD!
+PIPER: <em>Brilliant!</em> I can't wait to see all the BLOOD!
