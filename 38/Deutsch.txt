@@ -10,7 +10,7 @@ OAKEWOOD: Hast du mich nicht verstanden, Kleiner?
 OAKEWOOD: Ich starte ein neues Forschungsprojekt. Die zwei bleiben bei mir.
 BELFRY: Tun wir?
 
-TESS: DU?
+TESS: <em>DU?</em>
 OAKEWOOD: Du hast mehr als klar gemacht, dass du nicht interessiert bist. Man kann nicht beides haben, Dachsfellhose.
 
 HENRY: Das wird immer schlimmer und schlimmer.
