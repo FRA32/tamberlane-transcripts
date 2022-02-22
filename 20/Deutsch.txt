@@ -2,12 +2,12 @@
 
 BELFRY: AUAUAU, MEIN BEIN!
 
-BELFRY: Ich werde sterben
+BELFRY: <em>Ich werde sterben</em>
 
 GHOST: Auwauwauwau?
 
 BELFRY: BLEIB ZURÜCK, GEIST! Ich will dir nicht wehtun müssen!
 
-BELFRY: BITTE TU MIR NICHTS!
+BELFRY: <em>BITTE TU MIR NICHTS!</em>
 
 GHOST: bihze tumimix?
