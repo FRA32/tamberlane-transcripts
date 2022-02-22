@@ -6,9 +6,9 @@ AINSLEY: Okay, smarty! What would you call a creature that
 
 AINSLEY: walked on all fours!
 
-AINSLEY: was completely furless!
+AINSLEY: was completely <em>furless!</em>
 
-AINSLEY: and had a horrendous screaming WAAAIL
+AINSLEY: and had a horrendous <em>screaming WAAAIL</em>
 
 OAKEWOOD: An angry molerat.
 
