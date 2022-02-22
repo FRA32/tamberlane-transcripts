@@ -18,4 +18,4 @@ BELFRY: Oh!
 [SFX_: ffsssshhhhh]
 
 [SFX_: ffsssshhhhh]
-OFFSCREEN: BELFRY!
+ABSEITS: BELFRY!
