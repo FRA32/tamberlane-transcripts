@@ -10,12 +10,12 @@ PIPER: Uh-duh.
 BRIAR: Então é melhor eu ter certeza que você não vai se machucar.
 BRIAR: Mas em 10 minutos, vamos pra escola!
 
-PIPER: Certo, mamãe.
+PIPER: Certo, <em>mamãe.</em>
 
 BRIAR: De qualquer forma, onde está esse fantasma?
 PIPER: Quem sabe? Ainsley acabou de dizer que ele estava na floresta, gritando.
 
 [SFX: AWWAAAWAWRRAWW]
 
-[SFX: AI!]
+ANTHONY: AI!
 Piper: EU NÃO ESTOU COM MEDO!!!
