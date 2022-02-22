@@ -6,6 +6,6 @@
 
 [SFX: whump]
 
-ANTHONY: i think i killed miss belfry
+ANTHONY: <strong><em>i think i killed miss belfry</em></strong>
 
 PIPER: Yeah, probably.
