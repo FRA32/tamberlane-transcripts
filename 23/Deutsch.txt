@@ -2,9 +2,9 @@
 
 BELFRY: Du bist überhaupt kein Geist, oder?
 
-BELFRY: Du bist so winzig!
+BELFRY: Du bist so <em>winzig!</em>
 
-BELFRY: Aber wenn Du kein Geist bist... was bist Du dann?
+BELFRY: Aber wenn Du kein Geist bist... was <em>bist</em> Du dann?
 
 TAMBERLANE: Tamberlane!
 
