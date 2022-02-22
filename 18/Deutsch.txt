@@ -1,12 +1,12 @@
 [SFX: OOOWAAAWAAAWOOOW]
 BELFRY: Wa-was ist das?!
-ANTHONY: DER GEIST IST ZURÜCK!
+ANTHONY: <em>DER GEIST IST ZURÜCK!</em>
 
-ANTHONY: GEH, RETTE MEINE SCHWESTER!
+ANTHONY: <em>GEH, RETTE MEINE SCHWESTER!</em>
 
 BELFRY: Oh, hi Leute!
 
 BELFRY: ...Wa..oh-oh.
 
 PIPER: Das hätten wir eigentlich vorhersehen können.
-BRIAR: BEL!!!
+BRIAR: <em>BEL!!!</em>
