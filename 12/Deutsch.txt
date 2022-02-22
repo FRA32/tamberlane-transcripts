@@ -9,7 +9,7 @@ PIPER: Jaa-haaah.
 
 BRIAR: Dann sorg ich mal besser dafür, dass euch nichts passiert.
 BRIAR: Aber nur 10 Minuten, dann gehen wir zur Schule!
-PIPER: Ja, Mami!
+PIPER: Ja, <em>Mami!</em>
 
 BRIAR: Also, wo ist dieser Geist überhaupt?
 PIPER: Wer weiß? Ainsley sagte nur, dass er im Wald herumschreit.
