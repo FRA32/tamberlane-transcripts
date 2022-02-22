@@ -5,7 +5,7 @@ BELFRY: All RIGHT! Time to be RESPONSIBLE! I'm gonna knock this one out of the p
 
 BELFRY: Let's find me some kids!
 
-ANTHONY: BELFRY!
+ANTHONY: <em>BELFRY!</em>
 BELFRY: Is that Anthony?
 
 BELFRY: Excellent detective work, me!
