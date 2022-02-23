@@ -1,7 +1,8 @@
-OFFSCREEN: BELFRY!
+OFFSCREEN: <em>BELFRY!</em>
+BELFRY & TAMBERLANE: <em>AAHH!</em>
 
 FOX: How many fingers am I holding up?
-BELFRY: T...two?
+BELFRY: T...Two?
 
 FOX: Whew! When I'd heard you fell down a cliff, I was worried!
 FOX: But as usual, you defy expectations in the best way.
@@ -9,6 +10,7 @@ FOX: But as usual, you defy expectations in the best way.
 FOX: Since you don't appear to be concussed, I'm going to let Terra get some experience treating you.
 
 FOX: In the meantime, I'll feed Parker. Hello, my love.
+[SFX: weh mnnwuh muh]
 TERRA: He definitely wants his mama.
 
 BELFRY: Oh ho, you're finally letting your apprentice do your dirty work?
