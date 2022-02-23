@@ -7,9 +7,10 @@ PENNY: Whoa, I didn't realize you were so <em>tall.</em>
 PENNY: Now just hold onto the wall...
 PENNY: Good!
 
-TAMBERLANE: <em>Awahwah!!</em>
+TAMBERLANE: <strong><em>Awahwah!!</em></strong>
 PENNY: Wha-
 
-TAMBERLANE: <em>AWAHWAH BYEBYE!</em>
+TAMBERLANE: <strong><em>AWAHWAH BYEBYE!</em></strong>
 
 PIPER: Whatcha doin'?
+ANTHONY: help me
