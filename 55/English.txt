@@ -15,5 +15,6 @@ FOX: Really?
 
 BELFRY: Yes! She came right up and hugged me.
 BELFRY: I think she could tell I was nice.
+[SFX: achoo!]
 
 FOX: That's so strange!
