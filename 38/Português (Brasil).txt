@@ -10,7 +10,7 @@ OAKEWOOD: Não me escutou, cãozinho?
 OAKEWOOD: Estou começando um novo projeto de pesquisa. Eles vão ficar comigo.
 BELFRY: Nós vamos?
 
-TESS: VOCÊ?
+TESS: <em>VOCÊ?</em>
 OAKEWOOD: Você deixou bem claro que não está interessada. Não pode ter dos dois jeitos, trancinhas de texugo.
 
 HENRY: Isso só fica pior e pior.
