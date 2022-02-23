@@ -9,5 +9,5 @@ PENNY: Why's she so scared of you?!
 
 PIPER: Oh, that's probably 'cuz I pushed it into the ravine.
 
-PENNY: You <em>WHAT?!</em>
-PIPER: Well, I thought it was a ghost at the time.
+PENNY: You <strong><em>WHAT?!</em></strong>
+PIPER: Well, I <em>thought</em> it was a ghost at the time.
